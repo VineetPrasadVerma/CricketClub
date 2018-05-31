@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CricketClub</string>
+    <string name="cricket_club">Cricket Club</string>
+    <string name="phone_no">8989673944</string>
+    <string name="email">cricofficial@gmail.com</string>
+    <string name="address">Club No- 201\nNear ST Road,Gwalior</string>
+    <string name="tagline">Champions are made not born</string>
+</resources>
