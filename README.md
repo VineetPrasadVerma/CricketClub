@@ -1,2 +1,2 @@
 # CricketClub
-This is the first project of Android Basics NanoDegree i.e. SingleScreenApp
+This is the first project of Google India NanoDegree Scholarship i.e. SingleScreenApp
